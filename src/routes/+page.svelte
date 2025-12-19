@@ -1,21 +1,21 @@
 <script lang="ts">
-    // Images placeholders
-    const heroImage = "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=2560&auto=format&fit=crop";
-    const deskImage = "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1000&auto=format&fit=crop";
-    const glassesImage = "https://images.unsplash.com/photo-1590525626244-6720d234853f?q=80&w=1000&auto=format&fit=crop";
-    const bedroomImage = "https://images.unsplash.com/photo-1505693416388-b034680950ec?q=80&w=2560&auto=format&fit=crop";
-    const bedCornerImage = "https://images.unsplash.com/photo-1616594039964-40891a909d93?q=80&w=1000&auto=format&fit=crop";
-    const woodDetailImage = "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1000&auto=format&fit=crop";
-    const shelfDetailImage = "https://images.unsplash.com/photo-1595515106962-5907659ed678?q=80&w=1000&auto=format&fit=crop";
-    const shelfFullImage = "https://images.unsplash.com/photo-1594040226829-7f251ab46d80?q=80&w=1000&auto=format&fit=crop";
-    const livingRoomImage = "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=2560&auto=format&fit=crop";
-    const hallwayImage = "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1000&auto=format&fit=crop";
-    const kitchenImage = "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1000&auto=format&fit=crop";
-    const terraceImage = "https://images.unsplash.com/photo-1600607687644-c7171b42498f?q=80&w=2560&auto=format&fit=crop";
-    const woodJoineryImage = "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?q=80&w=1000&auto=format&fit=crop";
-    const kitchenIslandImage = "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=1000&auto=format&fit=crop";
-    const ctaLeft = "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2000&auto=format&fit=crop";
-    const ctaRight = "https://images.unsplash.com/photo-1497366811353-6870744d04b2?q=80&w=2000&auto=format&fit=crop";
+    // Project images
+    const heroImage = "/generated/image-luxurious-modern-living-room-with-floor--1766187835456-0.webp";
+    const deskImage = "/generated/image-designer-workspace-detail-with-architect-1766187845731-2.webp";
+    const glassesImage = "/generated/image-close-up-of-luxury-interior-details---sc-1766187851436-3.webp";
+    const bedroomImage = "/generated/image-elegant-bedroom-interior-with-curated-ar-1766187840276-1.webp";
+    const bedCornerImage = "/generated/image-modern-bedroom-corner-with-custom-millwo-1766187856382-4.webp";
+    const woodDetailImage = "/generated/image-architectural-detail-of-wood-joinery-and-1766187860314-5.webp";
+    const shelfDetailImage = "/generated/image-custom-built-in-shelving-with-curated-ob-1766187863475-6.webp";
+    const shelfFullImage = "/generated/image-wide-view-of-custom-shelving-unit-with-n-1766187866868-7.webp";
+    const livingRoomImage = "/generated/image-sophisticated-living-room-with-contempor-1766187869757-8.webp";
+    const hallwayImage = "/generated/image-elegant-hallway-with-architectural-light-1766187873036-9.webp";
+    const kitchenImage = "/generated/image-modern-kitchen-detail-with-natural-stone-1766187877968-10.webp";
+    const terraceImage = "/generated/image-outdoor-terrace-with-los-angeles-views-c-1766187883389-11.webp";
+    const woodJoineryImage = "/generated/image-detail-of-custom-wood-cabinetry-and-arch-1766187888623-12.webp";
+    const kitchenIslandImage = "/generated/image-modern-kitchen-island-with-natural-stone-1766187892957-13.webp";
+    const ctaLeft = "/generated/image-sophisticated-home-office-with-architect-1766187897179-14.webp";
+    const ctaRight = "/generated/image-elegant-dining-area-with-statement-light-1766187901314-15.webp";
 
 </script>
 
@@ -23,7 +23,7 @@
     <!-- Hero Section -->
     <section class="w-full mb-16 md:mb-24 px-4 md:px-6 max-w-[1600px] mx-auto">
         <div class="relative w-full aspect-[16/9] md:aspect-[21/9] overflow-hidden">
-            <img src={heroImage} alt="Kent Avenue Penthouse" class="w-full h-full object-cover" />
+            <img src={heroImage} alt="Villa Montalcino" class="w-full h-full object-cover" />
             <button class="absolute bottom-6 right-6 bg-transparent border border-white/50 text-white px-4 py-2 text-xs uppercase tracking-widest hover:bg-white hover:text-black transition-colors flex items-center gap-2">
                 Share
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4">
@@ -37,29 +37,29 @@
     <section class="max-w-[1200px] mx-auto px-6 mb-24 md:mb-32">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-24">
             <div>
-                <h1 class="font-display text-4xl md:text-5xl text-gray-900 mb-8">Kent Avenue Penthouse</h1>
+                <h1 class="font-display text-4xl md:text-5xl text-gray-900 mb-8">Villa Montalcino</h1>
                 <div class="text-gray-600 text-sm leading-relaxed space-y-4 max-w-md font-light">
                     <p>
-                        Perched high above the bustling city of New York, with magnificent views of the East River and the iconic Manhattan skyline, this unique penthouse flat combines warm minimalism and tactile materiality.
+                        Nestled in the hills of Pacific Palisades with sweeping views of the Pacific Ocean, Villa Montalcino represents a harmonious dialogue between architecture, landscape, and interior design.
                     </p>
                     <p>
-                        The flat, which was designed and decorated by Norm Architects, strikes a perfect balance between New York's raw industrial vibe and a timeless Scandinavian aesthetic.
+                        The residence, designed by Nila Interiors, merges timeless European sensibility with the relaxed elegance of California living, creating spaces that are both sculptural and deeply livable.
                     </p>
                 </div>
             </div>
             <div class="grid grid-cols-2 gap-y-6 text-[11px] uppercase tracking-wider">
                 <div class="text-gray-400">Private residence</div>
-                <div class="text-gray-900">New York City, USA</div>
+                <div class="text-gray-900">Pacific Palisades, CA</div>
 
-                <div class="text-gray-400">Architect</div>
-                <div class="text-gray-900">Norm Architects</div>
+                <div class="text-gray-400">Interior Design</div>
+                <div class="text-gray-900">Nila Interiors</div>
 
-                <div class="text-gray-400">Photographer</div>
-                <div class="text-gray-900">Jonas Bjerre-Poulsen</div>
+                <div class="text-gray-400">Principal Designer</div>
+                <div class="text-gray-900">Nila Tavan</div>
 
                 <div class="col-span-2 pt-6 border-t border-gray-100 mt-2">
-                    <div class="text-gray-400 mb-1">Product</div>
-                    <div class="text-gray-900">Dinesen HeartOak, Natural Oil, Dinesen Collection</div>
+                    <div class="text-gray-400 mb-1">Design Approach</div>
+                    <div class="text-gray-900">Architecture-Informed Interiors, Curated Material Palette, Timeless Composition</div>
                 </div>
             </div>
         </div>
@@ -69,9 +69,9 @@
     <section class="max-w-[1600px] mx-auto px-6 mb-24 md:mb-32">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
             <div class="md:col-span-5 md:col-start-2">
-                <img src={deskImage} alt="Desk detail" class="w-full aspect-[3/4] object-cover mb-4" />
+                <img src={deskImage} alt="Design detail" class="w-full aspect-[3/4] object-cover mb-4" />
                 <p class="text-xs text-gray-400 font-light max-w-xs mt-8 leading-relaxed">
-                    The dwelling was designed to provide a calm refuge from the hectic pulse of the city, with a minimalist interior that combines warm, functional and aesthetic qualities to create a solving and harmonious setting.
+                    The residence was conceived as a sanctuary that honors both the architectural bones of the structure and the lifestyle of its inhabitants, with each space carefully curated to balance visual impact with everyday functionality.
                 </p>
             </div>
             <div class="md:col-span-5 md:col-start-8 md:mt-32">
@@ -92,10 +92,10 @@
                 <img src={bedCornerImage} alt="Bedroom corner" class="w-full aspect-[3/4] object-cover" />
             </div>
             <div class="flex flex-col justify-between">
-                <img src={woodDetailImage} alt="Wood detail" class="w-full aspect-[3/4] object-cover mb-8" />
+                <img src={woodDetailImage} alt="Material detail" class="w-full aspect-[3/4] object-cover mb-8" />
                 <div class="max-w-xs ml-auto">
                      <p class="text-xs text-gray-400 font-light leading-relaxed">
-                        Dinesen Oak plays a central role in the bespoke solutions that define the interior. The timeless quality of the wood is highlighted in custom-made features designed to match the feel and functions of the flat. These specially designed elements include a bedframe, a wardrobe, a shelving unit and an integrated desk, all made of Dinesen Oak, which adds a warm and organic touch to the space.
+                        Natural materials play a central role in the design narrative. Custom millwork, stone surfaces, and carefully selected textiles create a layered sensory experience. Each material was chosen not only for its aesthetic contribution but for its ability to age gracefully and respond to the California light.
                     </p>
                 </div>
             </div>
@@ -129,7 +129,7 @@
         </div>
         <div class="flex justify-end">
              <p class="text-xs text-gray-400 font-light max-w-md leading-relaxed">
-                The tactile materials selected for the interior solutions create an experience that elevates the design from being merely visual into a strong sensuous impact. Every element of the interior was carefully selected to support the calm and harmonious atmosphere. Dinesen Oak make a contribution that is not just aesthetic but also functional as the natural and durable materials blend perfectly into Norm Architects' stringent and simple design expression.
+                The material palette creates a multi-sensory experience that extends beyond the purely visual. Every surface, texture, and finish was selected to support a sense of calm refinement. The interplay of warm woods, natural stone, and carefully chosen textiles creates depth and character while maintaining the timeless quality that defines Nila Interiors' approach.
             </p>
         </div>
     </section>
@@ -143,7 +143,7 @@
     <section class="max-w-[1600px] mx-auto px-6 mb-24 md:mb-32">
         <div class="max-w-md">
             <p class="text-xs text-gray-400 font-light leading-relaxed">
-                With a high priority on the sourcing of materials and a keen eye for details, Norm Architects demonstrate their dedication to quality and timeless design in their design of Kent Avenue Penthouse. The result is a dwelling where aesthetic and functional qualities come together in a harmonious, modern and luxurious space - a genuine tribute to natural materials and their ability to ennoble calm in an otherwise hectic world.
+                Through meticulous attention to material sourcing and spatial composition, Villa Montalcino demonstrates Nila Interiors' commitment to creating environments that transcend trends. The result is a residence where architectural integrity, aesthetic refinement, and everyday livability converge—a space that honors both its location and the lives lived within it.
             </p>
         </div>
     </section>
@@ -173,24 +173,24 @@
     <!-- Bottom CTA -->
     <section class="w-full grid grid-cols-1 md:grid-cols-2 h-[600px]">
         <div class="relative group overflow-hidden">
-            <img src={ctaLeft} alt="Get inspired" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+            <img src={ctaLeft} alt="View Portfolio" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
             <div class="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-colors"></div>
             <div class="absolute inset-0 flex flex-col items-center justify-center text-white text-center p-6">
-                <h2 class="font-display text-3xl md:text-4xl mb-2">Get inspired</h2>
-                <p class="text-sm font-light mb-8 opacity-90">Explore our many projects from around the world.</p>
+                <h2 class="font-display text-3xl md:text-4xl mb-2">View Portfolio</h2>
+                <p class="text-sm font-light mb-8 opacity-90">Explore our curated collection of residential projects.</p>
                 <button class="border border-white px-8 py-3 text-xs uppercase tracking-widest hover:bg-white hover:text-black transition-colors">
-                    Order Cases
+                    See Projects
                 </button>
             </div>
         </div>
         <div class="relative group overflow-hidden">
-            <img src={ctaRight} alt="Price Lists" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
+            <img src={ctaRight} alt="Start a Project" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" />
             <div class="absolute inset-0 bg-black/20 group-hover:bg-black/30 transition-colors"></div>
             <div class="absolute inset-0 flex flex-col items-center justify-center text-white text-center p-6">
-                <h2 class="font-display text-3xl md:text-4xl mb-2">Receive Dinesen Price Lists</h2>
-                <p class="text-sm font-light mb-8 opacity-90">A Dinesen floor sprouts in the dream, but grows from reality.</p>
+                <h2 class="font-display text-3xl md:text-4xl mb-2">Start a Project</h2>
+                <p class="text-sm font-light mb-8 opacity-90">Let's create something timeless together.</p>
                 <button class="border border-white px-8 py-3 text-xs uppercase tracking-widest hover:bg-white hover:text-black transition-colors">
-                    Explore
+                    Get in Touch
                 </button>
             </div>
         </div>

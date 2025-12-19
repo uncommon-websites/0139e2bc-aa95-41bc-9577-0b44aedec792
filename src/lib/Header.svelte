@@ -16,11 +16,8 @@
   <!-- Top Bar -->
   <div class="border-b border-gray-100 hidden md:block">
     <div class="max-w-[1600px] mx-auto px-6 h-10 flex justify-end items-center gap-6 text-[11px] font-medium tracking-wide text-gray-500 uppercase">
-      <a href="#" class="hover:text-black transition-colors">News</a>
-      <a href="#" class="hover:text-black transition-colors">Pro</a>
-      <a href="#" class="hover:text-black transition-colors">Contact</a>
-      <button class="hover:text-black transition-colors flex items-center gap-1">En <span class="text-[8px]">▼</span></button>
-      <button class="hover:text-black transition-colors flex items-center gap-1">Gbp <span class="text-[8px]">▼</span></button>
+      <a href="tel:310-330-6838" class="hover:text-black transition-colors">310-330-6838</a>
+      <a href="mailto:nilatavan@gmail.com" class="hover:text-black transition-colors">Contact</a>
     </div>
   </div>
 
@@ -29,33 +26,26 @@
     <div class="max-w-[1600px] mx-auto px-6 h-20 flex justify-between items-center relative">
       <!-- Logo -->
       <div class="w-32">
-        <a href="/" class="text-2xl font-bold tracking-tight font-display text-orange-400">
-          <!-- SVG Logo Placeholder -->
-           <span class="text-black">Dinesen</span>
+        <a href="/" class="block h-10">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 374.999991" class="h-full w-auto"><g fill="currentColor" fill-opacity="1"><g transform="translate(59.167969, 220.499986)"><path d="M 7.140625 0 L 7.140625 -102 C 7.679688 -102.34375 8.410156 -102.597656 9.328125 -102.765625 C 10.242188 -102.929688 11.046875 -103.015625 11.734375 -103.015625 C 14.785156 -103.015625 17.414062 -102.351562 19.625 -101.03125 C 21.84375 -99.707031 23.882812 -97.679688 25.75 -94.953125 C 27.625 -92.234375 29.597656 -88.800781 31.671875 -84.65625 C 33.742188 -80.507812 36.125 -75.628906 38.8125 -70.015625 C 41.5 -64.410156 44.742188 -58.070312 48.546875 -51 C 53.648438 -41.550781 57.9375 -34.191406 61.40625 -28.921875 C 64.875 -23.648438 67.695312 -19.820312 69.875 -17.4375 C 71.707031 -15.46875 73.148438 -14.242188 74.203125 -13.765625 C 75.253906 -13.296875 76.019531 -13.160156 76.5 -13.359375 C 76.976562 -13.566406 77.21875 -13.671875 77.21875 -13.671875 C 77.21875 -26.378906 76.503906 -37.953125 75.078125 -48.390625 C 73.648438 -58.835938 71.503906 -68.445312 68.640625 -77.21875 C 65.785156 -85.988281 62.179688 -94.25 57.828125 -102 L 79.046875 -102 L 79.046875 0 C 78.503906 0.269531 77.789062 0.503906 76.90625 0.703125 C 76.019531 0.910156 75.203125 1.015625 74.453125 1.015625 C 71.328125 1.015625 68.148438 -0.171875 64.921875 -2.546875 C 61.691406 -4.929688 58.425781 -8.195312 55.125 -12.34375 C 51.832031 -16.488281 48.570312 -21.226562 45.34375 -26.5625 C 42.113281 -31.90625 38.929688 -37.566406 35.796875 -43.546875 C 30.898438 -52.867188 26.957031 -60.570312 23.96875 -66.65625 C 20.976562 -72.738281 18.734375 -77.207031 17.234375 -80.0625 C 15.804688 -82.789062 14.566406 -84.816406 13.515625 -86.140625 C 12.460938 -87.460938 11.613281 -88.328125 10.96875 -88.734375 C 10.320312 -89.148438 9.828125 -89.320312 9.484375 -89.25 C 9.140625 -89.175781 8.96875 -89.140625 8.96875 -89.140625 C 8.96875 -76.160156 9.679688 -64.398438 11.109375 -53.859375 C 12.546875 -43.316406 14.707031 -33.640625 17.59375 -24.828125 C 20.488281 -16.023438 24.078125 -7.75 28.359375 0 Z M 7.140625 0 "/></g><g transform="translate(145.348086, 220.499986)"><path d="M 7.140625 0 L 7.140625 -102 L 21.9375 -102 L 21.9375 0 Z M 7.140625 0 "/></g><g transform="translate(174.41475, 220.499986)"><path d="M 7.140625 0 L 7.140625 -102 L 21.9375 -102 L 21.9375 -1.53125 C 26.414062 -1.53125 31 -1.988281 35.6875 -2.90625 C 40.382812 -3.820312 44.890625 -5.007812 49.203125 -6.46875 C 53.523438 -7.9375 57.367188 -9.570312 60.734375 -11.375 C 64.109375 -13.175781 66.644531 -14.960938 68.34375 -16.734375 L 68.34375 0 Z M 7.140625 0 "/></g><g transform="translate(225.573842, 220.499986)"><path d="M 24.28125 0 L 2.046875 0 C 4.148438 -6.9375 6.117188 -13.410156 7.953125 -19.421875 C 9.785156 -25.441406 11.535156 -31.207031 13.203125 -36.71875 C 14.867188 -42.226562 16.535156 -47.734375 18.203125 -53.234375 C 19.867188 -58.742188 21.601562 -64.441406 23.40625 -70.328125 C 25.207031 -76.210938 27.128906 -82.554688 29.171875 -89.359375 C 29.921875 -91.734375 30.875 -93.957031 32.03125 -96.03125 C 33.1875 -98.101562 34.664062 -99.785156 36.46875 -101.078125 C 38.269531 -102.367188 40.394531 -103.015625 42.84375 -103.015625 C 45.351562 -103.015625 47.492188 -102.367188 49.265625 -101.078125 C 51.035156 -99.785156 52.515625 -98.101562 53.703125 -96.03125 C 54.890625 -93.957031 55.828125 -91.734375 56.515625 -89.359375 C 58.546875 -82.554688 60.460938 -76.210938 62.265625 -70.328125 C 64.066406 -64.441406 65.800781 -58.742188 67.46875 -53.234375 C 69.132812 -47.734375 70.816406 -42.226562 72.515625 -36.71875 C 74.222656 -31.207031 75.976562 -25.441406 77.78125 -19.421875 C 79.582031 -13.410156 81.535156 -6.9375 83.640625 0 L 68.03125 0 C 65.925781 -7.070312 63.972656 -13.613281 62.171875 -19.625 C 60.367188 -25.644531 58.648438 -31.445312 57.015625 -37.03125 L 22.953125 -37.03125 C 22.816406 -31.382812 22.78125 -26.046875 22.84375 -21.015625 C 22.914062 -15.984375 23.085938 -11.613281 23.359375 -7.90625 C 23.628906 -4.195312 23.9375 -1.5625 24.28125 0 Z M 23.046875 -38.5625 L 56.515625 -38.5625 C 54.941406 -43.925781 53.335938 -49.242188 51.703125 -54.515625 C 50.078125 -59.785156 48.394531 -65.273438 46.65625 -70.984375 C 44.925781 -76.703125 43.007812 -82.828125 40.90625 -89.359375 C 40.5625 -90.515625 40.082031 -91.429688 39.46875 -92.109375 C 38.863281 -92.785156 37.984375 -93.125 36.828125 -93.125 C 34.984375 -93.125 33.347656 -92.066406 31.921875 -89.953125 C 30.492188 -87.847656 29.269531 -84.976562 28.25 -81.34375 C 27.226562 -77.707031 26.359375 -73.554688 25.640625 -68.890625 C 24.929688 -64.234375 24.375 -59.304688 23.96875 -54.109375 C 23.5625 -48.910156 23.253906 -43.726562 23.046875 -38.5625 Z M 23.046875 -38.5625 "/></g></g></svg>
         </a>
       </div>
 
       <!-- Center Nav -->
       <nav class="hidden md:flex items-center gap-10 text-[13px] font-medium tracking-wide uppercase">
-        <a href="#" class="hover:text-gray-600 transition-colors">Floors</a>
-        <a href="#" class="hover:text-gray-600 transition-colors">Floor Planner</a>
-        <a href="#" class="hover:text-gray-600 transition-colors">Inspiration</a>
-        <a href="#" class="hover:text-gray-600 transition-colors">Shop</a>
+        <a href="#" class="hover:text-gray-600 transition-colors">Portfolio</a>
+        <a href="#" class="hover:text-gray-600 transition-colors">Services</a>
+        <a href="#" class="hover:text-gray-600 transition-colors">About</a>
+        <a href="#" class="hover:text-gray-600 transition-colors">Contact</a>
       </nav>
 
       <!-- Right Icons -->
       <div class="w-32 flex justify-end items-center gap-6">
-        <button aria-label="Search" class="hover:text-gray-600">
+        <a href="mailto:nilatavan@gmail.com" aria-label="Email" class="hover:text-gray-600">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
-            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
           </svg>
-        </button>
-        <button aria-label="Cart" class="hover:text-gray-600 relative">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
-          </svg>
-          <span class="absolute -top-1 -right-1 bg-gray-900 text-white text-[9px] w-3.5 h-3.5 flex items-center justify-center rounded-full">0</span>
-        </button>
+        </a>
       </div>
     </div>
   </div>
@@ -64,7 +54,7 @@
   <div class="border-b border-gray-100">
     <div class="max-w-[1600px] mx-auto px-6 h-12 flex justify-end items-center">
         <button class="text-[11px] uppercase tracking-wide font-medium text-gray-500 flex items-center gap-2 hover:text-black">
-            More inspiration
+            More projects
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-3 h-3">
                 <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
             </svg>
